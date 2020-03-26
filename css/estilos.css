@@ -1,0 +1,33 @@
+.sacola {
+    background-image:	url(../img/sacola.png);
+    background-repeat:	no-repeat;
+    background-position:	top	right;
+            
+    font-size: 14px;
+	padding-right: 35px;
+	text-align:	right;
+    width: 140px;
+
+    padding-top: 8px;
+    position:	absolute;
+    top: 0;
+    right: 0;
+
+}
+
+.menu-opcoes {
+    font-size: 15px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+
+}
+
+.menu-opcoes {
+  color: #003366;
+}
+
+
+
+
+
