@@ -16,7 +16,7 @@ h2	{
     margin-top: 30px;
 }
 
-figure	{
+figure {
     background-color: #F2EDED;
     border: 1px	solid	#ccc;
     text-align:	center;
@@ -24,17 +24,17 @@ figure	{
     margin: 30px;
 }
 
-figcaption	{
+figcaption {
     font-style:	italic;
     margin-top: 10px;
 }
 
-p	{
+p {
     padding: 0 45px;
     text-indent: 15px;
 }
 
-#centro-distribuiçao	{
+#centro-distribuiçao {
     margin-left:	auto;
     margin-right:	auto;
     width: 550px;
@@ -51,7 +51,7 @@ p	{
     width: 94px;
 }
 
-#familia-pelho	{
+#familia-pelho {
     float:	right;
     margin: 0 0 10px 10px;
 }

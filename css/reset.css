@@ -1,4 +1,4 @@
-.menu-opcoes ul li	{
+.menu-opcoes ul li {
     display:	inline;
     margin-left: 20px;
 
@@ -26,34 +26,34 @@ header {
 
 .busca h2,
 .busca form,
-.menu-departamentos h2	{
+.menu-departamentos h2 {
 	margin: 10px;
 }
 
-.menu-departamentos li	{
+.menu-departamentos li {
 	background-color:	white;
 	margin-bottom: 1px;
 	padding: 5px 10px;
 }
 
-.menu-departamentos a	{
+.menu-departamentos a {
 	color: #333333;
 	text-decoration:	none;
 }
 
-.busca input[type=search]	{
+.busca input[type=search] {
     width: 170px;
 }
 
 .busca,
-.menu-departamentos	{
+.menu-departamentos {
 	float:	left;
 }
-.menu-departamentos	{
+.menu-departamentos {
 	clear:	left;
 }
 
-.destaque	{
+.destaque {
     margin-top: 10px;
 }
 .menu-departamentos	{
